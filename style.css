@@ -27,13 +27,13 @@
 .write2 {
   font-size: 30px;
   color: aliceblue;
-  margin-left: 730px;
+  margin-left: 1060px;
   margin-top: -35px;
 }
 .write3 {
   color: aliceblue;
   font-size: 30px;
-  margin-left: 1060px;
+  margin-left: 730px;
   margin-top: -35px;
 }
 .write4 {
@@ -73,31 +73,29 @@
 }
 .wera1 {
   text-decoration: none;
-  color: aqua;
-  margin-left: 30px;
+  color: black;
   font-size: 25px;
+  margin-left: 30px;
 }
 .wera2 {
   text-decoration: none;
   color: black;
   font-size: 25px;
   margin-left: 30px;
-  margin-top: -60px;
+}
+.wera04 {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  margin-left: 30px;
 }
 .wera3 {
   text-decoration: none;
   color: black;
   font-size: 25px;
   margin-left: 30px;
-  margin-top: -28px;
 }
-.wera4 {
-  text-decoration: none;
-  font-size: 25px;
-  color: black;
-  margin-left: 30px;
-  margin-top: -29px;
-}
+
 .font1 {
   font-size: 30px;
   margin-top: 50px;
@@ -117,11 +115,188 @@
   margin-top: -35px;
 }
 .TOKYO {
-  margin-top: -20px;
+  margin-top: -10px;
   margin-left: 550px;
 }
 .TOKYO1 {
   text-decoration: none;
   margin-left: 360px;
   margin-top: -34px;
+}
+.inf {
+  font-size: 100px;
+  margin-left: 300px;
+  color: rgb(77, 77, 77);
+}
+
+.line {
+  color: rgb(14, 213, 213);
+  font-size: 25px;
+  margin-left: 300px;
+  margin-top: -90px;
+}
+.proposal {
+  width: 1000px;
+  font-size: 20px;
+  margin-left: 310px;
+  color: rgb(77, 77, 77);
+}
+.image {
+  margin-left: 300px;
+  margin-top: 15px;
+}
+.proposal1 {
+  margin-left: 1000px;
+  font-size: 40px;
+  margin-top: -540px;
+  color: #3b3b3b;
+}
+.proposal2 {
+  margin-left: 1000px;
+  color: #3b3b3b;
+  font-size: 40px;
+  margin-top: -50px;
+}
+.proposal3 {
+  margin-left: 995px;
+  font-size: 25px;
+  width: 300px;
+  margin-top: -20px;
+  color: #696969;
+}
+.proposal4 {
+  margin-left: 995px;
+  font-size: 25px;
+  width: 300px;
+  margin-top: -10px;
+  color: #696969;
+}
+.line1 {
+  color: rgb(14, 213, 213);
+  margin-top: 125px;
+  font-size: 25px;
+  margin-left: 300px;
+}
+.image1 {
+  margin-left: 300px;
+}
+.proposal5 {
+  margin-left: 1000px;
+  font-size: 40px;
+  margin-top: -540px;
+  color: #3b3b3b;
+}
+.proposal6 {
+  margin-left: 1000px;
+  color: #3b3b3b;
+  font-size: 40px;
+  margin-top: -50px;
+}
+.proposal7 {
+  margin-left: 995px;
+  font-size: 25px;
+  width: 300px;
+  margin-top: -20px;
+  color: #696969;
+}
+.proposal8 {
+  margin-left: 995px;
+  font-size: 25px;
+  width: 300px;
+  margin-top: -20px;
+  color: #696969;
+}
+.line2 {
+  color: rgb(14, 213, 213);
+  margin-top: 125px;
+  font-size: 25px;
+  margin-left: 300px;
+}
+.image2 {
+  margin-left: 300px;
+}
+.proposal9 {
+  margin-left: 1000px;
+  font-size: 40px;
+  margin-top: -540px;
+  color: #3b3b3b;
+}
+.proposal10 {
+  margin-left: 1000px;
+  color: #3b3b3b;
+  font-size: 40px;
+  margin-top: -50px;
+}
+.proposal11 {
+  margin-left: 995px;
+  font-size: 25px;
+  width: 300px;
+  margin-top: -20px;
+  color: #696969;
+}
+.proposal12 {
+  margin-left: 995px;
+  font-size: 25px;
+  width: 300px;
+  margin-top: -20px;
+  color: #696969;
+}
+.line3 {
+  color: rgb(14, 213, 213);
+  margin-top: 125px;
+  font-size: 25px;
+  margin-left: 300px;
+}
+.image3 {
+  margin-left: 300px;
+}
+.proposal13 {
+  margin-left: 1000px;
+  font-size: 40px;
+  margin-top: -540px;
+  color: #3b3b3b;
+}
+.proposal14 {
+  margin-left: 1000px;
+  color: #3b3b3b;
+  font-size: 40px;
+  margin-top: -50px;
+}
+.proposal15 {
+  margin-left: 995px;
+  font-size: 25px;
+  width: 300px;
+  margin-top: -20px;
+  color: #696969;
+}
+.proposal16 {
+  margin-left: 995px;
+  font-size: 25px;
+  width: 300px;
+  margin-top: -20px;
+  color: #696969;
+}
+.line4 {
+  color: rgb(14, 213, 213);
+  margin-top: 125px;
+  font-size: 25px;
+  margin-left: 300px;
+}
+.font4 {
+  font-size: 30px;
+  margin-top: -20px;
+  margin-left: 690px;
+  color: rgb(41, 41, 189);
+}
+.font5 {
+  font-size: 30px;
+  margin-top: -35px;
+  margin-left: 740px;
+  color: #87ceeb;
+}
+.font6 {
+  font-size: 30px;
+  color: red;
+  margin-left: 785px;
+  margin-top: -35px;
 }
